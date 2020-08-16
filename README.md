@@ -13,7 +13,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ikifar2012)
+![Matheson Steplock's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikifar2012)
 
 
 <!-- Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a> -->
