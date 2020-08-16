@@ -10,6 +10,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Install Home Assistant (Supervised) on Ubuntu 20.04](https://mathesonsteplock.ca/install-home-assistant-supervised-on-ubuntu-20-04/)
+- [Windows 7 Has Reached EOL: What To Do Next](https://mathesonsteplock.ca/windows-7-eol/)
+- [The feature you must enable to get the most out of your AV Receiver: Bitstream](https://mathesonsteplock.ca/the-feature-you-must-enable-to-get-the-most-out-of-your-av-receiver-bitstream/)
+- [Mailchimp](https://mathesonsteplock.ca/mailchimp/)
+- [Making a Dumb TV Smart](https://mathesonsteplock.ca/making-a-dumb-tv-smart/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
