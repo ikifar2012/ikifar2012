@@ -1,6 +1,6 @@
 # Matheson Steplock
 
-## You can follow me here:
+## You can follow me here
 
 [Twitter]
 
