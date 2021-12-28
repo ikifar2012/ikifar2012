@@ -8,6 +8,11 @@
 
 [Website]
 
+# Home Assistant Addon Repository
+Click below to add my [Home Assistant Addon Repository](https://github.com/ikifar2012/ha-addons):
+
+[![Open your Home Assistant instance and show the add add-on repository dialog with a specific repository URL pre-filled.](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fikifar2012%2Fha-addons)
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to repair Windows 10 using the Media Creation Tool](https://mathesonsteplock.ca/repair-install-windows/)
