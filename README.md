@@ -15,11 +15,11 @@ Click below to add my [Home Assistant Addon Repository](https://github.com/ikifa
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [WeMo is Dead](https://mathesonsteplock.ca/wemo-is-dead/)
 - [Welcome](https://mathesonsteplock.ca/welcome/)
 - [How to Enable DNS over TLS on pfSense with Cloudflare](https://mathesonsteplock.ca/how-to-enable-dns-over-tls-on-pfsense/)
 - [How to repair Windows 10 using the Media Creation Tool](https://mathesonsteplock.ca/repair-install-windows/)
 - [Install Docker on Ubuntu 20.04](https://mathesonsteplock.ca/install-docker-on-ubuntu-20-04/)
-- [Install Home Assistant &lpar;Supervised&rpar; on Debian](https://mathesonsteplock.ca/install-home-assistant-supervised-on-debian/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub Stats
